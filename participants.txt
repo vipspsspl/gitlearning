@@ -1,3 +1,6 @@
 - Alexander 
 - Stacy
 git2 - vipulpsspl
+
+git config --local user.name "vipulpsspl"
+git config --local user.email "vipul.psspl@gmail.com"
